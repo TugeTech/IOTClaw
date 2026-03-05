@@ -1,2 +1,2 @@
 # IOTClaw
-OpenClaw-based IoT Agent Framework for RTOS and other Embedded Devices
+IoTClaw: The world's first Cellular-Native AI Agent OS. Online, anywhere.
